@@ -8,7 +8,7 @@ FILTERATION IS BASED ON THE NUMBER OF MATCHES BETWEEN THE USER AND THE USER IN T
 
 reference to boto3 for aws dynamodb (https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/dynamodb.html#DynamoDB.Client.scan)
 
-reference for api gateway boto3 module ()
+reference for api gateway boto3 module (https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/apigatewaymanagementapi.html#ApiGatewayManagementApi.Client.post_to_connection)
 
 
 
